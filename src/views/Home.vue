@@ -1,12 +1,10 @@
 <template>
-  <v-app>
-    <router-view />
-  </v-app>
+  <div class="home">Home</div>
 </template>
 
 <script>
 export default {
-  name: "App",
+  name: "Home",
 };
 </script>
 
